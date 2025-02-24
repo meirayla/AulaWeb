@@ -1,0 +1,11 @@
+#titulo{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    background-color: rgb(227, 9, 209);
+    text-decoration: none;
+
+}
